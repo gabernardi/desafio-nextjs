@@ -10,7 +10,8 @@ https://ip-api.com
 
 Instruções:
 - Faça um fork do projeto.
-- Mande um Pull Request com o que desenvolveu com seu nome completo no nome do PR.
+- Crie uma branch com seu nome completo e desenvolva.
+- Envie um Pull Request com o que desenvolveu com seu nome completo no nome do PR.
 
 Queremos saber  como você montaria uma loja para um (1) tipo de Pokémon. Escolha o seu preferido.
 
